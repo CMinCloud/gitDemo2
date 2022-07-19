@@ -11,5 +11,6 @@ public class gidDemo2 {
         System.out.println("branch01 merge into master!!!");
         System.out.println("conflict test...");
         System.out.println("branch01 conflict test...");
+        System.out.println("重新创立git本地仓库后再次提交");
     }
 }
