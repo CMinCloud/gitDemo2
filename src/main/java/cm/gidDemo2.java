@@ -10,5 +10,6 @@ public class gidDemo2 {
         System.out.println("forth change");
         System.out.println("branch01 merge into master!!!");
         System.out.println("conflict test...");
+        System.out.println("branch01 conflict test...");
     }
 }
